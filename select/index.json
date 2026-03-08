@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "160",
+  "base_artist": "Captain Noah",
+  "createdAt": "2026-03-08T13:26:42.325590Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "On roule à 160",
+      "artist": "Jacqueline Taïeb",
+      "has_synced": true,
+      "path": "select/01_On_roule_à_160_Jacqueline_Taïeb.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Memphis Bells (Release 160)",
+      "artist": "The Prodigy",
+      "has_synced": true,
+      "path": "select/02_Memphis_Bells_(Release_160)_The_Prodigy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aval (From \"Op 160/18 Kakshi: Amminippilla\")",
+      "artist": "Arun Muraleedharan & Harisankar KS",
+      "has_synced": true,
+      "path": "select/03_Aval_(From__Op_160_18_Kakshi__Amminippilla_)_Arun_Muraleedharan_&_Harisankar_KS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "160 Gramos",
+      "artist": "Junior H",
+      "has_synced": true,
+      "path": "select/04_160_Gramos_Junior_H.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "160- Confiando solo en Jesús",
+      "artist": "María Luisa Piraquive",
+      "has_synced": true,
+      "path": "select/05_160-_Confiando_solo_en_Jesús_María_Luisa_Piraquive.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aval - From \"Op 160/18 Kakshi: Amminippilla\"",
+      "artist": "Arun Muraleedharan feat. K. S. Harisankar",
+      "has_synced": false,
+      "path": "select/06_Aval_-_From__Op_160_18_Kakshi__Amminippilla_Arun_Muraleedharan_feat._K._S._Harisankar.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aval - From \"Op 160/18 Kakshi: Amminippilla\"",
+      "artist": "Arun Muraleedharan",
+      "has_synced": false,
+      "path": "select/07_Aval_-_From__Op_160_18_Kakshi__Amminippilla_Arun_Muraleedharan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "On Roule À 160",
+      "artist": "Jacqueline Taieb",
+      "has_synced": false,
+      "path": "select/08_On_Roule_À_160_Jacqueline_Taieb.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Uyyaram Payyaram - From \"OP 160/18 Kakshi: Amminippilla\"",
+      "artist": "Samuel Aby",
+      "has_synced": true,
+      "path": "select/09_Uyyaram_Payyaram_-_From__OP_160_18_Kakshi__Amminippilla_Samuel_Aby.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "160 Gramos",
+      "artist": "Junior H",
+      "has_synced": true,
+      "path": "select/10_160_Gramos_Junior_H.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "SAMMY IRUNGU - NDUKANJETHE ( Dial *860*160# for SKIZA)",
+      "artist": "SAMMY IRUNGU",
+      "has_synced": false,
+      "path": "select/11_SAMMY_IRUNGU_-_NDUKANJETHE_(_Dial__860_160__for_SKIZA)_SAMMY_IRUNGU.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "160",
+      "artist": "PAIN RCC",
+      "has_synced": true,
+      "path": "select/12_160_PAIN_RCC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "160",
+      "artist": "Captain Noah",
+      "has_synced": false,
+      "path": "select/pl_01_160_Captain_Noah.txt"
+    }
+  ]
+}
